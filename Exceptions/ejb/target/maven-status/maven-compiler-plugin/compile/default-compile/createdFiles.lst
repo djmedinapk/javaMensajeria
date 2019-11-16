@@ -1,0 +1,4 @@
+Controller\Jms.class
+Controller\JmsLocal.class
+mdb\DriverBean.class
+mdb\Mensaje.class
